@@ -16,13 +16,6 @@ Education
 * M.S. in School of Information Science and Technology, ShanghaiTech University, Sept. 2021 – June 2024 (Expected)
 * Visiting intern in Computer Science and Engineering, Hong Kong University of Science and Technology, Mar.2023 - Sept. 2023
 
-Contests
-======
-* The *4th place*, The 40th Odyssey of the Mind World Final Problem 3, World OM Commit
-* *Champion*, The 40th Odyssey of the Mind China Final Problem 3, China OM Commit
-* The *4th place*, The 39th Odyssey of the Mind World Final Problem 3, World OM Commit
-* *Champion*, The 39th Odyssey of the Mind China Final Problem 3, China OM Commit
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -34,7 +27,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Contests
+======
+* The *4th place*, The 40th Odyssey of the Mind World Final Problem 3, World OM Commit
+* *Champion*, The 40th Odyssey of the Mind China Final Problem 3, China OM Commit
+* The *4th place*, The 39th Odyssey of the Mind World Final Problem 3, World OM Commit
+* *Champion*, The 39th Odyssey of the Mind China Final Problem 3, China OM Commit
+* *Outstanding Student*, ShanghaiTech University
+
 Volunteer activities
 ======
 * Deputy Director, **UM-SJTU JI Volunteer Union**, Jul.2018-Aug.2019
