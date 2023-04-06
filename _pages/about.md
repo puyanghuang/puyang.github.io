@@ -18,7 +18,7 @@ Current Project
 * BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
