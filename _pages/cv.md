@@ -11,41 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in UM-SJTU Joint Institute, Shanghai Jiao Tong University, Sept. 2017 – Jul. 2021
+* Exchange in International Marketing Using the Internet Program, McGill University, Jan. 2018 – Feb. 2018
+* M.S. in School of Information Science and Technology, ShanghaiTech University, Sept. 2021 – June 2024 (Expected)
+* Visiting intern in Computer Science and Engineering, Hong Kong University of Science and Technology, Mar.2023 - Sept. 2023
 
-Work experience
+Contests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* The *4th place*, The 40th Odyssey of the Mind World Final Problem 3, World OM Commit
+* *Champion*, The 40th Odyssey of the Mind China Final Problem 3, China OM Commit
+* The *4th place*, The 39th Odyssey of the Mind World Final Problem 3, World OM Commit
+* *Champion*, The 39th Odyssey of the Mind China Final Problem 3, China OM Commit
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +35,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer activities
 ======
-* Currently signed in to 43 different slack teams
+* Deputy Director, **UM-SJTU JI Volunteer Union**, Jul.2018-Aug.2019
+* Team Leader, **Winter & Summer Volunteer Team, SJTU**, Jul.2018-Jul.2018
