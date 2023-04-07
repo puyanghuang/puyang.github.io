@@ -14,9 +14,8 @@ My research interests lie in data visualization (VIS) and human computer interac
 
 Current Project
 ------
-* Optimizing Design and Content Marketing Strategies for Fashion Products with FashionCook: A Visual Analytics Approach
-* BPCoach: Exploring Hero Drafting in Professional MOBA Tournaments via Visual Analytics
-
+* VAAT systems for fashion retailers.
+* VAST systems for MOBA game applications.
 Publications
 ------
   <ul>{% for post in site.publications %}
