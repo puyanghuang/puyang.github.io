@@ -2,7 +2,7 @@
 title: "Energy and Dynamic Analysis of Quasi-static Toggling Mechanical Energy Harvester"
 collection: publications
 permalink: https://doi.org/10.1016/j.nanoen.2022.107887
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: ''
 date: 2009-10-01
 venue: 'Nano Energy'
 paperurl: 'https://doi.org/10.1016/j.nanoen.2022.107887'
