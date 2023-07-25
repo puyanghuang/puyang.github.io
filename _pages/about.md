@@ -10,12 +10,12 @@ redirect_from:
 
 
 I am Shiyi LIU (刘诗逸), currently a master student in the School of Information Science and Technology at ShanghaiTech University, under the supervision of Prof.Li Quan. Before that, I obtained my bachelor degree in Mechanical Engineering from Shanghai Jiao Tong University.
-My research interests lie in data visualization (VIS) and human computer interaction (HCI). My mission is to adopt VAST system in big data scenario and develop user-centered interactive system.
+My research interests lie in data visualization (VIS) and human computer interaction (HCI). My mission is to adopt VAST system in big data scenario and develop interactive system for HCI researches.
 
 Current Project
 ------
+* VAST systems for fashion retailers.
 * VAST systems for MOBA game applications.
-* Interactive interfaces for leveraging Language Model Models (LLMs) in healthcare.
 
 Publications
 ------

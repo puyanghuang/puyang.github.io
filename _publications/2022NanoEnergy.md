@@ -7,7 +7,7 @@ date: 2022-12-15
 venue: 'Nano Energy'
 paperurl: 'https://doi.org/10.1016/j.nanoen.2022.107887'
 citation: '<u>Shiyi Liu</u>, Xin Li, Li Teng, Guobiao Hu, Junrui Liang. (2022). &quot;Energy and Dynamic Analysis of Quasi-static Toggling Mechanical Energy Harvester.&quot; <i>Nano Energy</i>.'
-
+---
 
 # <!-- [Download paper here](https://doi.org/10.1016/j.nanoen.2022.107887) -->
 
