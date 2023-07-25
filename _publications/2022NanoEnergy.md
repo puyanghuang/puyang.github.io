@@ -1,7 +1,7 @@
 ---
 title: "Energy and Dynamic Analysis of Quasi-static Toggling Mechanical Energy Harvester"
 collection: publications
-permalink: https://doi.org/10.1016/j.nanoen.2022.107887
+# permalink: https://doi.org/10.1016/j.nanoen.2022.107887
 # excerpt: ''
 date: 2022-12-15
 venue: 'Nano Energy'
