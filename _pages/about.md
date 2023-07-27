@@ -9,13 +9,7 @@ redirect_from:
 ---
 
 
-I am Shiyi LIU (刘诗逸), currently a master student in the School of Information Science and Technology at ShanghaiTech University, under the supervision of Prof.Li Quan. Before that, I obtained my bachelor degree in Mechanical Engineering from Shanghai Jiao Tong University.
-My research interests lie in data visualization (VIS) and human computer interaction (HCI). My mission is to adopt VAST system in big data scenario and develop interactive system for HCI researches.
-
-Current Project
-------
-* VAST systems for fashion retailers.
-* VAST systems for MOBA game applications.
+I am Puyang Huang (黄浦阳), currently a master student in the School of Information Science and Technology at ShanghaiTech University, under the supervision of Prof. Xufeng Kou. Before that, I obtained my bachelor degree in Electrical and Computer Engineering from Shanghai Jiao Tong University. My current research interest is SOT physics in strong SOC semiconductor and topological insulators, strain-modualted VCMA and MRAM-based neural network application.
 
 Publications
 ------
