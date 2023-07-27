@@ -1,2 +1,2 @@
 A Github Pages for Personal Website.
-Welcome! Click [here](https://ainsley579.github.io/shiyi.github.io/).
+Welcome! Click [here](https://puyanghuang.github.io/puyang.github.io/).
