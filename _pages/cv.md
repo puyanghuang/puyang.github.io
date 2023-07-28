@@ -40,7 +40,6 @@ Contests
 * *Champion*, The 40th Odyssey of the Mind China Final Problem 3, China OM Commit
 * The *4th place*, The 39th Odyssey of the Mind World Final Problem 3, World OM Commit
 * *Champion*, The 39th Odyssey of the Mind China Final Problem 3, China OM Commit
-* *Outstanding Student*, ShanghaiTech University
 
 Volunteer activities
 ------
