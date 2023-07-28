@@ -14,6 +14,15 @@ Education
 * B.S. in UM-SJTU Joint Institute, Shanghai Jiao Tong University, Sept. 2017 – Jul. 2021
 * M.S. in School of Information Science and Technology, ShanghaiTech University, Sept. 2021 – June 2024 (Expected)
 
+Honors & Awards
+------
+* Outstanding Student 2021-2022, ShanghaiTech University, Dec. 2022
+* Academic Progress Award, UM-SJTU JI, Dec. 2021
+* Second-Level Academic Scholarship, UM-SJTU JI, Dec. 2021
+* Yu Liming Scholarship, UM-SJTU JI, Nov. 2021
+* Third-Level Academic Scholarship, UM-SJTU JI, Dec. 2019
+* Outstanding Student in Volunteer Activities, UM-SJTU JI, Mar. 2018
+
 Research
 ------
 * MRAM-based Neural Network
