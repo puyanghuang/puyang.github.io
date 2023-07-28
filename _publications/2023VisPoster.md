@@ -1,12 +1,12 @@
 ---
-title: "Towards an Exploratory Visual Analytics System for Griefer Identification in MOBA Games"
+title: "Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe<sub>2 for Reliable Magnetic Memory Applications"
 collection: publications
 # permalink: https://doi.org/10.1016/j.nanoen.2022.107887
 # excerpt: ''
 date: 2023-10-23
 venue: 'VIS Poster'
 # paperurl: 'https://doi.org/10.1016/j.nanoen.2022.107887'
-citation: 'Zixin Chen*, <u>Shiyi Liu*</u>, Zhihua Jin*, Gaoping Huang*, Yang Chao, Zhenchuan Yang, Quan Li, Huamin Qu. (2023). &quot;Towards an Exploratory Visual Analytics System for Griefer Identification in MOBA Games.&quot; <i>VIS</i>.'
+citation: 'Liu, X.*, **<u>Huang P.*</u>**, Xia, Y.*, <i>et al.</i>, Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe<sub>2 for Reliable Magnetic Memory Applications (accepted by **<i>Advanced Functional Materials</i>** (2023) DOI: 10.1002/adfm.202304454)'
 
 ---
 
