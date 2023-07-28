@@ -14,6 +14,14 @@ Education
 * B.S. in UM-SJTU Joint Institute, Shanghai Jiao Tong University, Sept. 2017 – Jul. 2021
 * M.S. in School of Information Science and Technology, ShanghaiTech University, Sept. 2021 – June 2024 (Expected)
 
+Research
+------
+* MRAM-based Neural Network
+** Probabilistic binary neural network implemented with heavy metal (HM)-based SOT-MRAM
+
+*VCMA-assisted SOT in Strong SOC materials
+**
+
 Publications
 ------
   <ul>{% for post in site.publications %}
