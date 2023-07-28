@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am Puyang Huang (黄浦阳), currently a master student in the School of Information Science and Technology at ShanghaiTech University, under the supervision of Prof. Xufeng Kou. Before that, I obtained my bachelor degree in Electrical and Computer Engineering from Shanghai Jiao Tong University. My current research interest is SOT physics in strong SOC semiconductor and topological insulators, strain-modualted VCMA and MRAM-based neural network application.
+I am Puyang Huang (黄浦阳), currently a master student in the School of Information Science and Technology at ShanghaiTech University, under the supervision of Prof. Xufeng Kou. Before that, I obtained my bachelor degree in Electrical and Computer Engineering from Shanghai Jiao Tong University. My current research interest is spin-orbit torque (SOT) related physics in strong spin orbit coupling (SOC) materials (semiconductor and topological insulators), strain-modualted voltage control magnetic anisotropy (VCMA) and MRAM-based neural network application.
 
 Publications
 ------
