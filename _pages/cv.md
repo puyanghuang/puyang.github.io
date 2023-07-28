@@ -26,8 +26,6 @@ Honors & Awards
 Research
 ------
 * MRAM-based Neural Network
-** Probabilistic binary neural network implemented with heavy metal (HM)-based SOT-MRAM
-
 * VCMA-assisted SOT in Strong SOC materials
 
 Publications
