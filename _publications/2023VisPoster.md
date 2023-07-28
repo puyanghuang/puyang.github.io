@@ -6,7 +6,7 @@ collection: publications
 date: 2023-10-23
 venue: 'Advanced Functional Materials'
 # paperurl: 'https://doi.org/10.1016/j.nanoen.2022.107887'
-citation: 'Liu, X.*, <u>__Huang P.*__</u>, Xia, Y.*, <i>et al.</i>, Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe<sub>2</sub> for Reliable Magnetic Memory Applications (accepted by <i>Advanced Functional Materials</i> (2023) DOI: 10.1002/adfm.202304454)'
+citation: 'Liu, X.*, <b><u>Huang P.*</u></b>, Xia, Y.*, <i>et al.</i>, Wafer-scale Epitaxial Growth of the Thickness-controllable Van Der Waals Ferromagnet CrTe<sub>2</sub> for Reliable Magnetic Memory Applications (accepted by <b><i>Advanced Functional Materials</i></b> (2023) DOI: 10.1002/adfm.202304454)'
 
 ---
 
